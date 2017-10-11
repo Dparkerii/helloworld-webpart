@@ -1,7 +1,7 @@
 {
   "$schema": "https://dev.office.com/json-schemas/spfx-build/deploy-azure-storage.schema.json",
   "workingDir": "./temp/deploy/",
-  "account": "<!-- STORAGE ACCOUNT NAME -->",
-  "container": "hello-world",
-  "accessKey": "<!-- ACCESS KEY -->"
+  "account": "sptestingdeploy",
+  "container": "helloworld-webpart",
+  "accessKey": "TFYnpH0y2rpaoMG6kSpUuJvYt66exeXZEJAimyJH9D42W3efBBlkGaO41wLhA82xFPGC94xRKpuuVhvCghO0Sw=="
 }
